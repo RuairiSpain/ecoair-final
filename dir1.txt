@@ -2,6 +2,7 @@ config.py
 config.pyc
 dir.txt
 dir1.txt
+dir2.txt
 ecoair.err
 ecoair.py
 images
